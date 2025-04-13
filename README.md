@@ -89,34 +89,30 @@ I will set this to sev-c priority and assign the ticket to John, but feel free t
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/d9610d4c-50f7-441b-959c-10959abd42b5)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As it shows above we went through the process of having the customer restart their device and it fixed the issue
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/f5f212b5-5769-455d-93e9-5b0cd37ffc74)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Before we completely close out the ticket, insert some internal notes by selecting "Post internal Note" and observe the difference in color in the thread, we can do this to communicate with other tech support users about issues pertaining to the issue that we do not wish to involve the end user as it is either not pertinent to them, or the comment could create an angry customer. Either way it is used, I would highly recommend only sharing neccesary information with the customer in documentation.
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/cf05026b-17ed-40d4-a67a-f9ba56b04b9e)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you are finished exploring the notes section, close out the ticket and observe it in the closed ticket section
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/584a0f57-5f78-4cb2-9214-67174d31264b)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+osTicket also allows the tech to create tickets when a problem is discovered or on the behalf of an end user if needed. Under "Tickets" select new ticket and you will be able to play around with different siuations that my arise on the day to day job. Use google or Chatgpt to create prompts and explore permissions of osTicket, it is a very capable open source tool that can be fully exploited for anyone new trying to learn a new skill. We have only scratched the surface in this tutorial, but the best part about this software is, if you break it, you can also fix it by reinstalling it and starting from new. Hope you learned something new!
 </p>
 <br />
